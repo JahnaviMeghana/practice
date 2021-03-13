@@ -4,6 +4,6 @@ String id;
 long number;
 String date;
 int cvv;
-
+string name;
   
 }
